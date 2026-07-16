@@ -207,3 +207,19 @@ header{
     background-color: white;
     color: black;
 }
+h1, h2, h3 {
+    font-family: 'Orbitron', sans-serif;
+}
+.img1{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 90px;
+    float: left;
+}
+.img2{
+    width: 350px;
+    margin-right: 100px;
+    margin-top: 90px;
+    border-radius: 30px;
+    float: right;
+}
