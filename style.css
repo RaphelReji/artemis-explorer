@@ -232,6 +232,8 @@ header{
     margin-left: 100px;
     margin-top: 90px;
     float: left;
+    border-radius: 20px;
+    border-style: groove;
 }
 .img2{
     width: 350px;
@@ -239,4 +241,10 @@ header{
     margin-top: 90px;
     border-radius: 30px;
     float: right;
+}
+.img2:hover{
+        transform: scale(-1.02);
+}
+.img1:hover{
+        transform:scale(.8);
 }
