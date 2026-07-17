@@ -248,3 +248,31 @@ header{
 .img1:hover{
         transform:scale(.8);
 }
+#HA1{
+    color: #66ccff;
+
+}
+#HA2{
+    color:goldenrod;
+}
+#HA3{
+    color: greenyellow;
+}
+#HA4{
+    color: orangered;
+}
+
+.MISSIONS{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 15px;
+    width: 60%;
+    margin: 30px auto;
+    transition: 0.3s;
+    font-weight: 600;
+    text-align: center justify;
+}
+
+.MISSIONS:hover{
+        transform: scale(1.02);
+}
