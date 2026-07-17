@@ -402,3 +402,43 @@ h1{
 #orion1:HOVER{
     transform: scale(1.03);
 }
+#lauch1{
+    width: 300px;
+    border-style: groove;
+    border-radius: 10px;
+    float: left;
+    margin-left: 40px;
+    margin-top: -50px;
+    transition: 0.3s;
+}
+#lauch1:HOVER{
+    transform: scale(1.03);
+}
+
+#luna1{
+    width: 300px;
+   
+    border-style: groove;
+    border-radius: 15px;
+    float: right;
+    margin-right: 40px;
+    margin-top: -90px;
+    transition: 0.3s;
+}
+#luna1:HOVER{
+    transform: scale(1.03);
+}
+
+#astro2{
+    width: 200px;
+     border-style: groove;
+    border-radius: 100px;
+    float: right;
+    margin-top: -210px;
+    margin-right: 40px;
+   
+    transition: 0.3s;
+}
+#astro2:HOVER{
+    transform: scale(1.03);
+}
