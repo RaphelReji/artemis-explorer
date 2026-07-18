@@ -485,3 +485,23 @@ h1{
     }
    
 }
+
+.dashboard {
+    width: 80%;
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 25px;
+    background: rgba(0,0,0,0.7);
+    border: 2px solid #66ccff;
+    border-radius: 20px;
+}
+.dashboard h2 {
+    color: #66ccff;
+    margin-bottom: 20px;
+}
+
+.dashboard p {
+    font-size: 18px;
+    margin: 12px 0;
+    text-align: left;
+}

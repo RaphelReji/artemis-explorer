@@ -27,4 +27,3 @@ This website explains the Artemis missions, objectives, facts, and includes a ga
 ##  Purpose
 
 This project was created for educational purposes to learn web development.
-
