@@ -7,5 +7,5 @@ document.addEventListener("mousemove", (e) => {
     rocket.style.top = e.clientY +
     "px";
     rocket.style.transform =
- "transalate(-50%, -50%) rotate(45deg)";
+ "translate(-50%, -50%) rotate(45deg)";
 });

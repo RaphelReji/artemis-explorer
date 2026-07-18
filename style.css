@@ -442,3 +442,46 @@ h1{
 #astro2:HOVER{
     transform: scale(1.03);
 }
+
+@media (max-width:700px) {
+
+    nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15PX;
+
+    }
+    h1{
+        font-size: 38px;
+    }
+
+    .img1,
+    .img2,
+    #LAU,
+    #earth,
+    #astro1,
+    #moon1,
+    #orion1,
+    #lauch1,
+    #luna1,
+    #astro2 {
+        float: none;
+        display: block;
+        width: 80%;
+        max-width: 350px;
+        margin: 30px auto;
+
+    }
+
+    .gallery{
+        grid-template-columns: 1fr;
+    }
+    .gallery img {
+        height: auto;
+    }
+   
+}
